@@ -1,0 +1,29 @@
+.banner{
+    background-color: #812F8D;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+.panel_lewy{
+    background-color: #BB74C4;
+    color: white;
+    width: 25%;
+    height: 100%;
+    float: left;
+
+}
+.panel_prawy{
+    width: 75%;;
+
+}
+h2{
+    text-align: center;
+}
+.form{
+    margin: 20px;
+}
